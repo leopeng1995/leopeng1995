@@ -1,6 +1,6 @@
 #### Profile
 
-I graduated from Dalian Maritime University in 2017 with a Bachelor's degree in Computer Science and Technology. After graduation, I worked in gateway, microservices, and cloud-native development. In 2024, I transitioned to Large Language Model (LLM) application development. I have a strong interest in areas such as operator development, LLM inference/training frameworks, Fine-Tuning, RAG, agents, and vector databases.
+I graduated from Dalian Maritime University in 2017 with a Bachelor's degree in Computer Science and Technology. After graduation, I worked in gateway, microservices, and cloud-native development. In 2024, I transitioned to Large Language Model (LLM) application development. I have a strong interest in areas such as Operator, LLM inference/training frameworks, Fine-Tuning, RAG, Agents, and Vector databases.
 
 Thanks to LLMs, I can quickly learn knowledge in new fields. Since transitioning to LLM application development this year, I've independently achieved rankings between 10th and 20th in several competitions, even though these areas represent new knowledge I hadn't previously encountered.
 
