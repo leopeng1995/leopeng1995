@@ -6,6 +6,7 @@ Thanks to LLMs, I can quickly learn knowledge in new fields. Since transitioning
 
 #### Competitions
 
+- 2024 第二届开放原子大赛-openEuler应用软件开发赛·三等奖
 - 2024 第二届开放原子大赛-基于大模型的UBML智能低代码开发创新大赛·优秀奖
 - 2024 第三届琶洲算法大赛-GLM法律行业大模型挑战赛道·中西部赛区第一名
 - 2017 华为LiteOS物联网黑客马拉松·三等奖
